@@ -9,6 +9,7 @@ import {
   USER_DATA_CLOSE,
   USER_DATA_OPEN,
 } from "../aiUtils";
+import { analyzeResumeAgainstJob } from "../resumeAgent";
 
 const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY! });
 
@@ -121,4 +122,11 @@ export async function generateExperienceDescription(
   const instruction = `The user data describes a position the user worked in. Provide a summary of three levels of activities performed in that position, preferably as a list: High Activity, Medium Activity, and Low Activity. Each summary should be 3-4 lines long, written from the user's perspective reflecting on past experiences. Output a JSON array of objects, each containing 'activity_level' and 'description' fields. You may include <b>, <i>, <u>, <s>, <blockquote>, <ul>, <ol>, and <li> tags to enhance the descriptions. Use example work samples if needed, but do not insert placeholders.`;
 
   return askGemini(instruction, sanitizeInput(experienceInfo));
+}
+
+export async function analyzeResumeForJobMatch(
+  resumeText: string,
+  jobDescription: string
+) {
+  return analyzeResumeAgainstJob(resumeText, jobDescription);
 }

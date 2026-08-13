@@ -1,0 +1,97 @@
+[
+  {
+    "_id": "6a625e26f3271910b718afed",
+    "resumeId": "e0d41d30-f119-4c90-8dcc-82ce59d420f0",
+    "userId": "6a625e20f3271910b718afe9",
+    "title": "UI E2E Resume",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "themeColor": "#212121",
+    "template": "classic",
+    "sectionOrder": [
+      "experience",
+      "education",
+      "skills"
+    ],
+    "skillsStyle": "bars",
+    "dateFormat": "default",
+    "hiddenSections": [],
+    "isPublic": false,
+    "updatedAt": "2026-07-23T18:32:06.350Z",
+    "customSections": [],
+    "__v": 0
+  },
+  {
+    "_id": "6a625dddf3271910b718afe6",
+    "resumeId": "43e4e67c-3eb0-481d-8b92-49de97ee2693",
+    "userId": "6a625dd8f3271910b718afe2",
+    "title": "UI E2E Resume",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "themeColor": "#212121",
+    "template": "classic",
+    "sectionOrder": [
+      "experience",
+      "education",
+      "skills"
+    ],
+    "skillsStyle": "bars",
+    "dateFormat": "default",
+    "hiddenSections": [],
+    "isPublic": false,
+    "updatedAt": "2026-07-23T18:30:53.674Z",
+    "customSections": [],
+    "__v": 0
+  },
+  {
+    "_id": "6a5fceaef3271910b718afda",
+    "resumeId": "63ad8bd5-9067-4351-bb5d-941f9abbbd05",
+    "userId": "6a5fceaaf3271910b718afd6",
+    "title": "UI E2E Resume",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "themeColor": "#212121",
+    "template": "classic",
+    "sectionOrder": [
+      "experience",
+      "education",
+      "skills"
+    ],
+    "skillsStyle": "bars",
+    "dateFormat": "default",
+    "hiddenSections": [],
+    "isPublic": false,
+    "updatedAt": "2026-07-21T19:55:26.863Z",
+    "customSections": [],
+    "__v": 0
+  },
+  {
+    "_id": "6a5fcd20b44aaad47f5e0827",
+    "resumeId": "e2e-1784663328295",
+    "userId": "6a5fcd20b44aaad47f5e0826",
+    "title": "E2E Test Resume",
+    "updatedAt": "2026-07-21T19:48:48.694Z",
+    "firstName": "E2E",
+    "lastName": "Tester",
+    "jobTitle": "Test Engineer",
+    "summary": "This is a test resume created by automated E2E script.",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "themeColor": "#000000",
+    "template": "classic",
+    "sectionOrder": [
+      "experience",
+      "education",
+      "skills"
+    ],
+    "skillsStyle": "bars",
+    "dateFormat": "default",
+    "hiddenSections": [],
+    "customSections": [],
+    "isPublic": false
+  }
+]
