@@ -19,6 +19,8 @@
      <b>ResumeAI</b> is designed to make resume creation effortless. With the help of AI, users can generate, update, and customize their resumes, ensuring they stand out to potential employers. The application is secure, user-friendly, and highly customizable.
   </div>
   <br />
+<p align="center">Maintained by <strong>Abhay Kiran Pandey</strong> ([Abhay04-star](https://github.com/Abhay04-star)) — abhaykiranpandey@gmail.com</p>
+
 </div>
 
 ## <a name="features">✨ Features</a>
@@ -107,8 +109,8 @@ Make sure you have the following installed on your machine:
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/Mahmud0808/ResumeAI.git
-cd ResumeAI
+git clone https://github.com/Abhay04-star/Resume-AI.git
+cd Resume-AI
 ```
 
 ### Installation
