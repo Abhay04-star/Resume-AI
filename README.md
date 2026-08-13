@@ -19,7 +19,6 @@
      <b>ResumeAI</b> is designed to make resume creation effortless. With the help of AI, users can generate, update, and customize their resumes, ensuring they stand out to potential employers. The application is secure, user-friendly, and highly customizable.
   </div>
   <br />
-  <a href="https://resume-ai-app.vercel.app/"><strong>➥ Visit ResumeAI App</strong></a>
 </div>
 
 ## <a name="features">✨ Features</a>
@@ -189,8 +188,4 @@ Authentication has been migrated from Clerk to NextAuth, removing the previous
 500-user cap — registrations are no longer limited. You can use the live app, or
 fork the repository, set up the environment variables, and run it locally.
 
-## 📬 Contact
-
-Wanna reach out to me? DM me at 👇
-
-Email: mahmudul15-13791@diu.edu.bd
+<!-- Contact information removed -->
